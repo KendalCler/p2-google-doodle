@@ -17,4 +17,5 @@ Short [link name](http) description of topic
 
 ## Image for Moodboard
 
-![Name of Image](http://unsplash.it/400)
+![paper](http://www.publicdomainpictures.net/pictures/80000/velka/watercolor-paper.jpg)
+![watercolor brush](http://www.jerrysartarama.com/media/catalog/product/0/0/0060112000000-st-01-harmony-brushes.jpg)
