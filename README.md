@@ -16,3 +16,6 @@ The technique of water-based painting dates to ancient times, and belongs to the
 
 ![paper](http://www.publicdomainpictures.net/pictures/80000/velka/watercolor-paper.jpg)
 ![watercolor brush](http://www.jerrysartarama.com/media/catalog/product/0/0/0060112000000-st-01-harmony-brushes.jpg)
+![plops](https://cms-assets.tutsplus.com/uploads/users/117/posts/26468/image/watercolor-10.jpg)
+![background](https://image.freepik.com/free-photo/pink-texture-watercolor_1048-3462.jpg)
+![cloud](https://s-media-cache-ak0.pinimg.com/736x/bb/3b/2e/bb3b2e89c291da449bcd80fc6b61f788.jpg)
