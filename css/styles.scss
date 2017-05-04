@@ -1,4 +1,42 @@
+// Grand central station
+@import "normalize";
+@import "google-homepage";
+
 /* Styling */
 body {
-    background: #4f485c;
+    background: #776a8e;
+}
+
+// Stage (parent)
+#stage {
+    position: relative;
+    overflow: hidden;
+}
+
+//child 
+#stage svg {
+    position: absolute;
+    bottom: -20px;
+    right: 15px;
+}
+
+//child
+#stage h1 {
+    position: absolute;
+    bottom: 40%;
+    left: 33%;
+}
+
+// Animations go here
+//First Frame
+#stage h1,
+#stage svg {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+//Last Frame
+#stage:hover h1,
+#stage:hover svg {
+    opacity: 1;
 }
