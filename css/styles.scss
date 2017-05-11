@@ -1,14 +1,17 @@
 // Grand central station
 @import "normalize";
 @import "google-homepage";
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
 
 /* Styling */
 body {
-    background: #776a8e;
+    background: #ffffff;
 }
 
 // Stage (parent)
 #stage {
+    background: url(http://www.publicdomainpictures.net/pictures/80000/nahled/watercolor-paper.jpg) center;
     position: relative;
     overflow: hidden;
 }
@@ -22,9 +25,13 @@ body {
 
 //child
 #stage h1 {
+    font-family: 'Courgette', cursive;
+    color: white;
+    opacity: 0;
+    font-size: 7em;
+    text-align: center;
+    margin: 50% auto;
     position: absolute;
-    bottom: 40%;
-    left: 33%;
 }
 
 // Animations go here
