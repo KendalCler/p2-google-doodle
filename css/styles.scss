@@ -6,7 +6,7 @@
 
 /* Styling */
 body {
-    background: #ffffff;
+    background: #e87373;
 }
 
 // Stage (parent)
@@ -27,23 +27,16 @@ body {
 #stage h1 {
     font-family: 'Courgette', cursive;
     color: white;
-    opacity: 0;
-    font-size: 7em;
+    opacity: .2;
+    font-size: 5em;
+    margin: auto;
+    top: 100px;
+    left: 180px;
     text-align: center;
-    margin: 50% auto;
     position: absolute;
 }
 
 // Animations go here
 //First Frame
-#stage h1,
-#stage svg {
-    opacity: 0;
-    transition: opacity 1s;
-}
 
 //Last Frame
-#stage:hover h1,
-#stage:hover svg {
-    opacity: 1;
-}
